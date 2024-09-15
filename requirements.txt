@@ -7,3 +7,5 @@ langchain
 pyPDF
 streamlit
 python-dotenv
+langchain-community
+-e .
