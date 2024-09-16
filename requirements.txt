@@ -4,7 +4,7 @@ matplotlib
 seaborn
 openai
 langchain
-pyPDF
+pyPDF2
 streamlit
 python-dotenv
 langchain-community
