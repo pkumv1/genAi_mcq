@@ -1,0 +1,6 @@
+MCQ,choices,Correct
+What is a key component of the Langchain platform that allows models to remember past interactions?,a: Chains | b: Agents | c: Prompts | d: Indexes,a
+Which ethical consideration is associated with the use of Hugging Face API and Langchain in language-related technologies?,a: Intellectual Property and Copyright | b: Bias and Fairness | c: Privacy and Data Protection | d: Cultural Sensitivity,a
+What is the purpose of fine-tuning models in the context of model training using Hugging Face API?,a: To create biases in the model | b: To leverage pre-trained knowledge for specific tasks | c: To increase training data requirements | d: To decrease computational resources needed,b
+Which Hugging Face API component is responsible for breaking down text into smaller units called tokens?,a: Chains | b: Agents | c: Transformers | d: Tokenizers,d
+What is a potential ethical concern related to the use of language models in decentralized applications?,a: Overreliance on AI | b: Transparency and Explainability | c: Language Detection | d: Dialogue Management,a
