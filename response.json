@@ -1,0 +1,53 @@
+RESPONSE_JSON = {
+    "1": {
+        "mcq": "Multiple Choice Questions",
+        "options": {
+            "a": "Choice here",
+            "b": "Choice here",
+            "c": "Choice here",
+            "c": "Choice here",
+            "e": "Choice here",
+        },
+    },
+    "2": {
+        "mcq": "Multiple Choice Questions",
+        "options": {
+            "a": "Choice here",
+            "b": "Choice here",
+            "c": "Choice here",
+            "c": "Choice here",
+            "e": "Choice here",
+        },
+    },
+    "3": {
+        "mcq": "Multiple Choice Questions",
+        "options": {
+            "a": "Choice here",
+            "b": "Choice here",
+            "c": "Choice here",
+            "c": "Choice here",
+            "e": "Choice here",
+        },
+    },
+    "4": {
+        "mcq": "Multiple Choice Questions",
+        "options": {
+            "a": "Choice here",
+            "b": "Choice here",
+            "c": "Choice here",
+            "c": "Choice here",
+            "e": "Choice here",
+        },
+    },
+    "5": {
+        "mcq": "Multiple Choice Questions",
+        "options": {
+            "a": "Choice here",
+            "b": "Choice here",
+            "c": "Choice here",
+            "c": "Choice here",
+            "e": "Choice here",
+        },
+        "Correct": "correct answer",
+    },
+}

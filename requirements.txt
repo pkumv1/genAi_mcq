@@ -8,4 +8,5 @@ pyPDF2
 streamlit
 python-dotenv
 langchain-community
+pyPDF2
 -e .
