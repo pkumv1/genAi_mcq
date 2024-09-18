@@ -1,6 +1,6 @@
 import os
 import json
-import pyPDF2
+import PyPDF2
 import traceback
 
 
@@ -41,7 +41,7 @@ def get_table_data(quiz_str):
                 ]
             )
             correct= value["correct"]
-            quiz_table_data.append("MCQ": mcq,"Choices":options,"Correct":correct)
+            quiz_table_data.append({"MCQ": mcq,"Choices":options,"Correct":correct})
         return quiz_table_data
     except Exception as e:
         traceback.print_exception(type(e),e,e._traceback__)
